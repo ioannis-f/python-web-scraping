@@ -15,3 +15,6 @@
 
 ### id iteration crawler
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/6.png)
+
+### link crawler
+![](https://github.com/lbias/python-web-scraping/blob/master/images/7.png)
