@@ -12,3 +12,6 @@
 
 ### sitemap crawler
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/5.png)
+
+### id iteration crawler
+![](https://github.com/lbias/python-web-scraping/blob/master/images/6.png)
