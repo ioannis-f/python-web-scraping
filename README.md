@@ -6,3 +6,6 @@
 
 ### retry downloads
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/3.png)
+
+### setting a user agent
+![](https://github.com/lbias/python-web-scraping/blob/master/images/4.png)
