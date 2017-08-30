@@ -51,3 +51,6 @@
 
 ### advanced link crawler with csv callback
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c9_advanced_link_crawler.png)
+
+### implement redis cache
+![](https://github.com/lbias/python-web-scraping/blob/master/images/rediscache.png)
