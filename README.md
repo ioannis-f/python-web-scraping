@@ -36,3 +36,6 @@
 
 ### parse broken html with lxml
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c4_lxml_brokenhtml.png)
+
+### lxml scraper
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c5_lxml_scraper.png)
