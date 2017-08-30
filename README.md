@@ -18,3 +18,6 @@
 
 ### link crawler
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/7.png)
+
+### advanced link crawler
+![](https://github.com/lbias/python-web-scraping/blob/master/images/8.png)
