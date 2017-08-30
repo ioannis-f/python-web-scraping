@@ -48,3 +48,6 @@
 
 ### compare performance of all scrapers
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c8_test_scrapers.png)
+
+### advanced link crawler with csv callback
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c9_advanced_link_crawler.png)
