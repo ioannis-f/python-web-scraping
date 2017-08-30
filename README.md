@@ -39,3 +39,6 @@
 
 ### lxml scraper
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c5_lxml_scraper.png)
+
+### xpath scraper
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c6_xpath_scraper.png)
