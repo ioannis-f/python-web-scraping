@@ -21,3 +21,6 @@
 
 ### advanced link crawler
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/8.png)
+
+### advanced link crawler using requests library
+![](https://github.com/lbias/python-web-scraping/blob/master/images/9.png)
