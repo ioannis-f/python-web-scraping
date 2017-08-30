@@ -99,5 +99,3 @@ def link_crawler(start_url, link_regex, robots_url=None, user_agent='wswp',
                         crawl_queue.append(abs_link)
         else:
             print('Blocked by robots.txt:', url)
-
-print(link_crawler('https://www.packtpub.com', '/(big-data-and-business-intelligence|web-development)/'))
