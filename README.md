@@ -33,3 +33,6 @@
 
 ### BeautifulSoup
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c3_beautifulsoup.png)
+
+### parse broken html with lxml
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c4_lxml_brokenhtml.png)
