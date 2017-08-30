@@ -45,3 +45,6 @@
 
 ### traverse family trees with lxml
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c7_family_trees.png)
+
+### compare performance of all scrapers
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c8_test_scrapers.png)
