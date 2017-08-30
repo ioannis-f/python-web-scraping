@@ -30,3 +30,6 @@
 
 ### handle broken html with BeautifulSoup
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c2_beautifulsoup_brokenhtml.png)
+
+### BeautifulSoup
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c3_beautifulsoup.png)
