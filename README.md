@@ -42,3 +42,6 @@
 
 ### xpath scraper
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c6_xpath_scraper.png)
+
+### traverse family trees with lxml
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c7_family_trees.png)
