@@ -27,3 +27,6 @@
 
 ### regular expressions
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c1_regex.png)
+
+### handle broken html with BeautifulSoup
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c2_beautifulsoup_brokenhtml.png)
