@@ -62,3 +62,6 @@
 ### multithreaded crawler to download alexa list
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c11_threaded_crawler.png)
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/c11_threaded_crawler2.png)
+
+### scrape google search result
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c13_scrape_google.png)
