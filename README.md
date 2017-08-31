@@ -54,3 +54,7 @@
 
 ### implement redis cache
 ![](https://github.com/lbias/python-web-scraping/blob/master/images/rediscache.png)
+
+### sequential crawler to download alexa list
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c10_advanced_link_crawler.png)
+![](https://github.com/lbias/python-web-scraping/blob/master/images/c10_advanced_link_crawler2.png)
